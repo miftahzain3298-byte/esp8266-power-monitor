@@ -1,0 +1,9 @@
+| Component | Technology |
+|-----------|------------|
+| **Microcontroller** | ESP8266 (NodeMCU) |
+| **Sensor** | PZEM004t v3.0 (AC power monitoring) |
+| **Display** | ST7789 TFT (SPI) |
+| **Communication** | SoftwareSerial (PZEM) + SPI (TFT) |
+| **Protocol** | MQTT (EMQX public broker) |
+| **Data Format** | JSON (ArduinoJson library) |
+| **IDE** | Arduino IDE / PlatformIO |
