@@ -1,0 +1,5 @@
+□ Add OTA (Over-The-Air) firmware updates
+□ Web dashboard for historical data
+□ Database logging (InfluxDB)
+□ Alert system (overload detection)
+□ Integration with Home Assistant
