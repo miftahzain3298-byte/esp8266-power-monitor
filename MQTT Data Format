@@ -1,0 +1,8 @@
+Published JSON payload:
+
+{
+  "voltage": 220.5,
+  "current": 2.3,
+  "power": 0.506,
+  "energy": 12.45
+}
