@@ -1,0 +1,8 @@
+Install these libraries in Arduino IDE:
+
+Library	:              Purpose :
+PZEM004Tv30	Sensor     communication
+Adafruit GFX	         TFT graphics
+Adafruit ST7789	       TFT driver
+PubSubClient	         MQTT communication
+ArduinoJson	           JSON serialization
