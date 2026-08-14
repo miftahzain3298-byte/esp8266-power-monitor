@@ -1,8 +1,3 @@
-### Configuration
-Open `power_monitor.ino` and update these lines:
-
-```cpp
-
 #include <PZEM004Tv30.h>
 #include <SoftwareSerial.h>
 #include <Adafruit_GFX.h>
