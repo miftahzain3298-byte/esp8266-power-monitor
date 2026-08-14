@@ -1,0 +1,4 @@
+- Voltage : ± 1.0% accuracy
+- Current : ± 1.5% accuracy
+- Power   : ± 1.0% accuracy
+- MQTT    : Reliable publishing every 1 second
