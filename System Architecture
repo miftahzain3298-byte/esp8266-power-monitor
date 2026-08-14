@@ -1,0 +1,12 @@
+[AC Power Source]
+│
+▼
+[PZEM004t Sensor]
+│
+▼
+[ESP8266]
+├── TFT Display (Local)
+└── MQTT Broker (Cloud)
+│
+▼
+[Subscriber: Dashboard, Mobile App, Database]
