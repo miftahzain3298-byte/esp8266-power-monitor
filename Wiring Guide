@@ -1,0 +1,20 @@
+### ESP8266 → TFT ST7789 (SPI)
+
+| ESP8266 | TFT ST7789 |
+|---------|------------|
+| D0 | RST |
+| D3 | CS |
+| D4 | DC |
+| D5 | SCL |
+| D7 | SDA |
+| 3V | VCC |
+| G | GND |
+
+### ESP8266 → PZEM004t
+
+| ESP8266 | PZEM004t |
+|---------|----------|
+| D1 (RX) | TX |
+| D2 (TX) | RX |
+| 3V | 5V |
+| G | GND |
